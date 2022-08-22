@@ -2,9 +2,10 @@
 CNN Transfer learning and fine tuning presentation and implementation
 
 ## Introduction
-This presentation is for Data Mining course in Amirkabir University of Technology. Our group consisted of .
+This presentation is for Data Mining course in Amirkabir University of Technology. 
 
-## Presentation Objectives
+## Dataset
+100 Sport Classification
 
 ### An Introduction to Transfer Learning
 * Problems that result in demand for Transfer Learning
